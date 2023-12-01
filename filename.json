@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/9ObMYCp.png",
+            "IconURL": "https://i.imgur.com/5oQWZXR.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -19,7 +19,7 @@
                     "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
                     "title1": "Bem vindo a take",
                     "text1": "Server 5x",
-                    "imageurl": "https://i.imgur.com/9ObMYCp.png"
+                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
                 }
             },
             {
@@ -30,7 +30,7 @@
                     "title2": "Right title",
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the right box",
-                    "imageurl": "https://i.imgur.com/9ObMYCp.png"
+                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
                 }
             },
             {
@@ -43,7 +43,7 @@
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the top right box",
                     "text3": "This text goes into the bottom right box",
-                    "imageurl": "https://i.imgur.com/9ObMYCp.png"
+                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
                 }
             },
             {
@@ -58,7 +58,7 @@
                     "text2": "<TextStyle.Violet>This text goes into the top right box</>",
                     "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
                     "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-                    "imageurl": "https://i.imgur.com/9ObMYCp.png"
+                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
                 }
             }
         ],
