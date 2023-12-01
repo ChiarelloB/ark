@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": false,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/5oQWZXR.png",
+            "IconURL": "https://i.imgur.com/c9EvxXb.png",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -43,7 +43,7 @@
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the top right box",
                     "text3": "This text goes into the bottom right box",
-                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
+                    "imageurl": "https://i.imgur.com/c9EvxXb.png"
                 }
             },
             {
@@ -58,7 +58,7 @@
                     "text2": "<TextStyle.Violet>This text goes into the top right box</>",
                     "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
                     "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
+                    "imageurl": "https://i.imgur.com/c9EvxXb.png"
                 }
             }
         ],
