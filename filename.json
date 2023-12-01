@@ -19,7 +19,7 @@
                     "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
                     "title1": "Bem vindo a take",
                     "text1": "Server 5x, loja, pvp comproteçao a raid offline",
-                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
+                    "imageurl": "https://i.imgur.com/SXuP5lT.png"
                 }
             },
             {
@@ -30,7 +30,7 @@
                     "title2": "Right title",
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the right box",
-                    "imageurl": "https://i.imgur.com/5oQWZXR.png"
+                    "imageurl": "https://i.imgur.com/SXuP5lT.png"
                 }
             },
             {
@@ -65,20 +65,20 @@
         "links": [
             {
                 "link1": {
-                    "text": "Link to Wiki",
-                    "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+                    "text": "Wiki",
+                    "url": "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
                 }
             },
             {
                 "link2": {
-                    "text": "Link to discord",
+                    "text": Discord",
                     "url": "https://discord.gg/SEaqz8Bf"
                 }
             },
             {
                 "link3": {
-                    "text": "Link to google",
-                    "url": "https://google.com"
+                    "text": "Mapa Interativo",
+                    "url": "https://ark-unity.com/ark-survival-ascended/maps/the-island/"
                 }
             }
         ]
